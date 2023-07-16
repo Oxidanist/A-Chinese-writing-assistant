@@ -17,3 +17,8 @@ python ui.py
 ```
 
 * Due to the loading of models, takes time to initialize
+
+
+# Compare with a Tencent product 
+![](tencent.png)
+![](our_work.png)
